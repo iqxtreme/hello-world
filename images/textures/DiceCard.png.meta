@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f2371e82-ef06-4c2c-a4be-c18e6f56a413",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DiceCard": {
+      "ver": "1.0.3",
+      "uuid": "45012f1b-a742-4c74-a408-a10932fc94ed",
+      "rawTextureUuid": "f2371e82-ef06-4c2c-a4be-c18e6f56a413",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 251,
+      "height": 250,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
